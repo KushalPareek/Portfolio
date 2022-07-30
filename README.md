@@ -1,2 +1,2 @@
-# Portfolio-Resume Live Check
+# Portfolio
 https://kushalpareek.github.io/Portfolio-Resume/
